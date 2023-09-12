@@ -84,9 +84,9 @@
 
 	> **PyInstaller**
 		>> _Es un módulo para Python que permite convertir programas en ejecutables para diferentes plataformas, como Windows (.exe), macOS (. dmg) y GNU/Linux. Esto le permitirá al usuario correr la aplicación mediante su ejecutable sin haber instalado el intérprete de Python u otros módulos._
-				>>>![imagen](.jpg "Título alternativo")
+				
 
 
 	> **Pywin32**
 		>> _Proporciona muchos módulos que permiten a los desarrolladores acceder a características de bajo nivel de Windows. Con las propiedades de pywin32, un usuario puede manipular fácilmente archivos, gestionar hardware, gestionar permisos, y crear ventanas de la interfaz gráfica de usuario mediante programación._
-				>>>![imagen](.jpg "Título alternativo")
+				
